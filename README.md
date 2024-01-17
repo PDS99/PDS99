@@ -8,3 +8,4 @@ PDS_B2BMGMT- 👋 Hi, I’m @PDS99
 PDS99/PDS99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/peepdaslan9"><img src="https://api.daily.dev/devcards/6ae48a62cf0d420e8a4ef6d7afe44c26.png?r=p7h" width="400" alt="PeepDaSlan9 's Dev Card"/></a> 
